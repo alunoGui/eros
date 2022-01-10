@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\_files\\android_files\\ErosApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\_files\\android_files\\ErosApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\_files\\android_files\\ErosApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\_files\\android_files\\ErosApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\_files\\android_files\\ErosApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\_files\\android_files\\ErosApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\_files\\android_files\\ErosApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\_files\\android_files\\ErosApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\_files\\android_files\\ErosApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_fundo_login.jpeg.flat",
+        "source": "D:\\_files\\android_files\\ErosApp\\app\\src\\main\\res\\drawable-v24\\fundo_login.jpeg"
+    },
+    {
+        "merged": "D:\\_files\\android_files\\ErosApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\_files\\android_files\\ErosApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\_files\\android_files\\ErosApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\_files\\android_files\\ErosApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\_files\\android_files\\ErosApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\_files\\android_files\\ErosApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\_files\\android_files\\ErosApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_mudar_pass.xml.flat",
+        "source": "D:\\_files\\android_files\\ErosApp\\app\\src\\main\\res\\layout\\activity_mudar_pass.xml"
+    },
+    {
+        "merged": "D:\\_files\\android_files\\ErosApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\_files\\android_files\\ErosApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\_files\\android_files\\ErosApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\_files\\android_files\\ErosApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\_files\\android_files\\ErosApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\_files\\android_files\\ErosApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\_files\\android_files\\ErosApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\_files\\android_files\\ErosApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\_files\\android_files\\ErosApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\_files\\android_files\\ErosApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\_files\\android_files\\ErosApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\_files\\android_files\\ErosApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\_files\\android_files\\ErosApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\_files\\android_files\\ErosApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\_files\\android_files\\ErosApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_criar_conta.xml.flat",
+        "source": "D:\\_files\\android_files\\ErosApp\\app\\src\\main\\res\\layout\\activity_criar_conta.xml"
+    },
+    {
+        "merged": "D:\\_files\\android_files\\ErosApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\_files\\android_files\\ErosApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    }
+]
