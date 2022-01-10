@@ -1,5 +1,5 @@
 # Eros
-Projeto de Desenvolvimento de Programas em Android - Aplicação Para Conhecer Pessoas
+Projeto de Desenvolvimento de Programas em Android - Aplicação Para Conhecer Pessoas (Eros)
 
 Trabalho realizado por:
   
